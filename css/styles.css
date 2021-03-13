@@ -297,8 +297,7 @@ p {
   width: 270px;
 }
 .description-card {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding: 30px 15px;
   text-align: center;
 }
 
@@ -350,8 +349,9 @@ p {
 }
 
 .address-item:not(:last-child) {
-  padding-bottom: 9px;
+  margin-bottom: 9px;
 }
+
 .address-str {
   font-size: 14px;
   line-height: 1.71;
